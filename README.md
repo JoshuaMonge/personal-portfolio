@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A passionate developer</h3>
+<h5 align="center">!!!This project is a WIP!!!</h5>
+<h5 align="center">In the meanwhile...</h5>
+
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
